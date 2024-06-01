@@ -1,7 +1,7 @@
 {
-  "name": "fauxpilot",
-  "displayName": "Fauxpilot",
-  "description": "Get completions from Fauxpilot server",
+  "name": "fauxpilotaincvy",
+  "displayName": "Fauxpilot - Aincvy",
+  "description": "Get completions from Fauxpilot / openai server",
   "version": "10.0.2",
   "icon": "assets/icon.png",
   "keywords": [
@@ -14,7 +14,7 @@
     "url": "https://github.com/Aincvy/vscode-fauxpilot"
   },
   "license": "MIT",
-  "publisher": "Venthe",
+  "publisher": "Aincvy",
   "engines": {
     "vscode": "^1.70.0"
   },

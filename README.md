@@ -1,12 +1,6 @@
 # Visual Studio Code - Fauxpilot Client
 
-[![GitHub contributors](https://img.shields.io/github/contributors/venthe/vscode-fauxpilot)](https://github.com/Venthe/vscode-fauxpilot/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/Venthe/vscode-fauxpilot?style=social)](https://github.com/Venthe/vscode-fauxpilot/forks)
-[![Stars](https://img.shields.io/github/stars/venthe/vscode-fauxpilot?style=social)](https://github.com/Venthe/vscode-fauxpilot/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/venthe/vscode-fauxpilot)](https://github.com/Venthe/vscode-fauxpilot/issues)
-[![License](https://img.shields.io/github/license/venthe/vscode-fauxpilot)](https://github.com/Venthe/vscode-fauxpilot/blob/main/LICENSE.md)
-[![Test](https://github.com/Venthe/vscode-fauxpilot/actions/workflows/test.yml/badge.svg)](https://github.com/Venthe/vscode-fauxpilot/actions/workflows/test.yml)
-
+vs code ext store line: https://marketplace.visualstudio.com/items?itemName=Aincvy.fauxpilotaincvy
 
 Support server list:
 - [Fauxpilot server](https://github.com/moyix/fauxpilot) by @moyix
