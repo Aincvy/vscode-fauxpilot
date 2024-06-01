@@ -1,6 +1,6 @@
 # Visual Studio Code - Fauxpilot Client
 
-vs code ext store line: https://marketplace.visualstudio.com/items?itemName=Aincvy.fauxpilotaincvy
+vs code ext store link: https://marketplace.visualstudio.com/items?itemName=Aincvy.fauxpilotaincvy
 
 Support server list:
 - [Fauxpilot server](https://github.com/moyix/fauxpilot) by @moyix
